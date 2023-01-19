@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{9495BBF8-8297-4377-A4EA-1C2A3F397F27}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Services/EmployeeService.cs">
+    <Files>
+      <File FileName="Controllers/EmployeesController.cs" Line="1" Column="1" />
+      <File FileName="Services/EmployeeService.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DotNetCRUD" expanded="True">
+            <Node name="DotNetCRUD" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Services" expanded="True">
+                <Node name="EmployeeService.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.DotNetCRUD PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
